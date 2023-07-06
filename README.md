@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elize025
-- 👀 I’m interested in Angular 11
+- 👀 I’m interested in Angular Framework
 - 🌱 I’m currently learning Entity Framework
 - 💞️ I’m looking to collaborate on building websites.
 - 📫 How to reach me elize025@gmail.com
